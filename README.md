@@ -1,16 +1,7 @@
-# flutter2
+# flutter2 Мамонтов Андрей Игоревич
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Создал login_page.dart и классы в нем LoginPage, _LoginPageState (виджет страницы регистрации)
+2. Добавил файд styles.dart, в котором указал основную цветовую схему, отступы и другие данные по стилю
+3. В main.dart установил соответствующий стиль в ThemeData и указал страницу регистрации в качестве home-страницы
+4. Результат:
+<img width="1014" alt="image" src="https://github.com/user-attachments/assets/0aa34669-945d-4ffe-ba75-5cc9f3ee889f">
